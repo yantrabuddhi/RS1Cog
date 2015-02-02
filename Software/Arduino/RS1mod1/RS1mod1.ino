@@ -1,4 +1,4 @@
-//RS1mod1.pde
+//RS1mod1
 //version 1.0 Beta
 //Program for arduino pro mini 328 5v, to control Robosapien v1
 //also adding functions like pan-tilt servo head,sonar,imu
